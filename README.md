@@ -74,4 +74,9 @@ Segue abaixo os endpoints disponíveis no projeto.
 ```
 
 ```
+5 - GET BY ID - http://localhost:8081/v1/users/{user_id}
+
+```
+
+```
 </details>
